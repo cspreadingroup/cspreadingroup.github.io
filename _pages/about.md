@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student in mathematical logic & theoretical computer science at the University of Cambridge
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Room FE21</p> 
-    <p>15 JJ Thomson Ave</p>
-    <p>Cambridge CB3 0FD, United Kingdom</p>
+    <p>Room FE21,</p> 
+    <p>15 JJ Thomson Ave,</p>
+    <p>Cambridge CB3 0FD, United Kingdom.</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Cambridge, working on mathematical logic and theoretical computer science.
+This is my personal website on which I wish to keep a summary of my academic and non-academic activities. For my academic website, see <a href="https://www.cst.cam.ac.uk/people/ie257">here</a>.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
