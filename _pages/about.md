@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in mathematical logic & theoretical computer science at the University of Cambridge
+subtitle: PhD student at the University of Cambridge
 
 profile:
   align: right
@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is my personal website on which I wish to keep a summary of my academic and non-academic activities. For my academic website, see <a href="https://www.cst.cam.ac.uk/people/ie257">here</a>.
+This is my personal website on which I wish to keep a summary of my academic and non-academic activities. For my university website, see <a href="https://www.cst.cam.ac.uk/people/ie257">here</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I work in an area of mathematical logic called model theory. Model theory aims at identifying the inherent differences between "theories", i.e. abstract logical properties of structures arising in mathematics. A common theme is finding "diving lines" within which these theories behave tamely, and looking at the interactions between these dividing lines. Part of my research involves seeing how these model theoretic properties occur in combinatorial structures which are natural to theoretical computer science, where tameness translates to efficient algorithmic properties.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
