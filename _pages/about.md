@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Cambridge, working on mathematical logic and theoretical computer science. This is my personal website on which I keep a summary of my academic and non-academic activities. For my university website, see <a href="https://www.cst.cam.ac.uk/people/ie257">here</a>.
+I am a PhD student at the University of Cambridge working on mathematics and theoretical computer science. This is my personal website on which I keep a summary of my academic and non-academic activities. For my university website, see <a href="https://www.cst.cam.ac.uk/people/ie257">here</a>.
 
-I work in an area of mathematical logic called model theory. Model theory aims at identifying the inherent differences between "theories"; the abstract logical properties that instantiate mathematical structures. A common theme is finding "diving lines" within which these theories behave tamely, and looking at the interactions between these dividing lines. Part of my research involves seeing how these model theoretic properties occur in combinatorial structures which are natural to theoretical computer science, where tameness corresponds to desirable algorithmic properties.
+I work in an area of mathematical logic called model theory. Model theory aims at identifying the inherent differences between "theories"; the abstract logical properties that instantiate mathematical structures. A common theme is finding "diving lines" within which these theories behave tamely, and recovering structure about the models of those tame theories. Part of my research involves seeing how these model theoretic properties occur in combinatorial structures which are natural to theoretical computer science, where tameness corresponds to desirable algorithmic properties.
 
 
