@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A reading group on infinite domain CSPs.
+subtitle: /
 
 profile: false
 
