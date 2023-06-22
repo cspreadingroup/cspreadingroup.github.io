@@ -5,7 +5,7 @@ title: schedule
 description: 
 nav: true
 ---
-We meet weakly on Wednesdays at 3PM CET. 
+We meet weekly on Wednesdays at 3PM CET. 
 
 <ul>
   <li>28/06: Ioannis Eleftheriadis - Background and motivation (notes, video)</li>
