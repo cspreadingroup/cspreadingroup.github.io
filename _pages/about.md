@@ -15,6 +15,8 @@ Welcome to the website for the reading group on infinite domain constraint satis
 
 The plan is to read through Manuel Bodirsky's book <i>Complexity of Infinite Domain Constraint Satisfaction Problems</i>, whose postscript version you can find <a href="https://wwwpub.zih.tu-dresden.de/~bodirsky/Book.pdf">here</a>. 
 
+The meetings take place online. If you're interested in participating, get in touch with p.marimon19 "at" imperial.ac.uk. 
+
 Few resources: 
 <ul>
   <li><a href="https://pococop.eu">POCOCOP</a></li>
