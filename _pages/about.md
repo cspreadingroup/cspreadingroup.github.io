@@ -13,9 +13,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to the website for the reading group on infinite domain constraint satisfaction problems. Here, we'll post the schedule for our meetings as well as notes and other related material. 
 
-The plan is to read through Manuel Bodirsky's book <i>Complexity of Infinite Domain Constraint Satisfaction Problems</i>, whose postscript version you can find <a href="https://wwwpub.zih.tu-dresden.de/~bodirsky/Book.pdf">here</a>. 
+The plan is to read through <b>Manuel Bodirsky's</b> book <i>Complexity of Infinite Domain Constraint Satisfaction Problems</i>, whose postscript version you can find <a href="https://wwwpub.zih.tu-dresden.de/~bodirsky/Book.pdf">here</a>. 
 
-The meetings take place online. If you're interested in participating, get in touch with p.marimon19 "at" imperial.ac.uk. 
+The meetings take place <b>online</b>. If you're interested in participating, get in touch with p.marimon19 "at" imperial.ac.uk. 
 
 Few resources: 
 <ul>
