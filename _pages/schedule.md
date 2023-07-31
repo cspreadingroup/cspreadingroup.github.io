@@ -12,6 +12,7 @@ We meet weekly on Wednesdays at 3PM CET.
   <li>05/07: <b>Paolo Marimon</b> - Sections 1.1-1.2 (<a href="https://cspreadingroup.github.io/_pages/2.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=5_4BGovYWfc">video</a>)</li>
   <li>12/07: <b> Sebastian  Meyer</b> - Sections 1.3-1.4 (<a href="https://cspreadingroup.github.io/_pages/3.pdf" target="_blank">notes</a>, <a href="https://youtu.be/7ykvH7vGJ9w">video</a>)</li>
   <li>19/07: <b>Alexey Barsukov </b> - Section 1.6 (<a href="https://cspreadingroup.github.io/_pages/4.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=HWaLlNMz7Do">video</a>)</li>
-  <li>26/07: <b>Nadav Meir</b> - Sections 2.1-2.2 (<a href="https://cspreadingroup.github.io/_pages/5.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=0U6wy1blmfo">video</a>) </li>
+  <li>26/07: <b>Nadav Meir</b> - Sections 2.1-2.2 (<a href="https://www.youtube.com/watch?v=0U6wy1blmfo">video</a>) </li>
+  <li>02/08: <b>Jakub Rydval</b> - Sections 2.3 </li>
 </ul>
   
