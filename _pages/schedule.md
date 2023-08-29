@@ -14,6 +14,7 @@ We meet weekly on Wednesdays at 3PM CET.
   <li>19/07: <b>Alexey Barsukov </b> - Section 1.6 (<a href="https://cspreadingroup.github.io/_pages/4.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=HWaLlNMz7Do">video</a>)</li>
   <li>26/07: <b>Nadav Meir</b> - Sections 2.1-2.2 (<a href="https://www.youtube.com/watch?v=0U6wy1blmfo">video</a>) </li>
   <li>02/08: <b>Jakub Rydval</b> - Section 2.3 (<a href="https://cspreadingroup.github.io/_pages/6.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=kJR22XXaEJM">video</a>)</li>
-  <li>09/08: <b>Aris Papadopoulos</b> - Sections 2.4-2.5</li>
+  <li>09/08: <b>Aris Papadopoulos</b> - Sections 2.4-2.5 (<a href="https://www.youtube.com/watch?v=ye5qh32WLdU">video</a>)</li>
+  <li>09/08: <b>Paolo Marimon</b> - Sections 2.6-2.7</li>
 </ul>
   
