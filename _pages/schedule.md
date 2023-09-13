@@ -17,5 +17,5 @@ We meet weekly on Wednesdays at 3PM CET.
   <li>09/08: <b>Aris Papadopoulos</b> - Sections 2.4-2.5 (<a href="https://www.youtube.com/watch?v=ye5qh32WLdU">video</a>)</li>
   <li>30/08: <b>Paolo Marimon</b> - Sections 2.6-2.7 (<a href="https://cspreadingroup.github.io/_pages/8.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=wDUpRkMX77U">video</a>)</li>
   <li>06/09: <b>Žaneta Semanišinová</b> - Sections 3.1-3.2 (<a href="https://cspreadingroup.github.io/_pages/9.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=OtMC_JvIPXc">video</a>)</li> 
-  <li>13/09: <b>Ioannis Eleftheriadis</b> - Sections 3.3-3.4 (<a href="https://cspreadingroup.github.io/_pages/10.pdf" target="_blank">notes</a>, <a href="">video</a>)</li>
+  <li>13/09: <b>Ioannis Eleftheriadis</b> - Sections 3.3-3.4 (<a href="https://cspreadingroup.github.io/_pages/10.pdf" target="_blank">notes</a>, video</a>)</li>
 </ul>
