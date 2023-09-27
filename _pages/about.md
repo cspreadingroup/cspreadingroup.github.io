@@ -19,5 +19,5 @@ The meetings take place in person, but it is also possible to join <b>online</b>
 
 Few resources: 
 <ul>
-  <li><a href="hhttps://www.cl.cam.ac.uk/research/clash/">Cambridge CLASH</a></li>
+  <li><a href="https://www.cl.cam.ac.uk/research/clash/">Cambridge CLASH</a></li>
 </ul>
