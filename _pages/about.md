@@ -11,14 +11,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the website for the reading group on infinite domain constraint satisfaction problems. Here, we'll post the schedule for our meetings as well as notes and other related material. 
+Welcome to the website for the Cambridge Logic and Algorithms group. We meet weekly to read and discuss papers or books that touch upon these two themes. 
 
-The plan is to read through <b>Manuel Bodirsky's</b> book <i>Complexity of Infinite Domain Constraint Satisfaction Problems</i>, whose postscript version you can find <a href="https://wwwpub.zih.tu-dresden.de/~bodirsky/Book.pdf">here</a>. 
+Our topic this term is the algebraic and topological theory of automata, as covered in Part III of the <a href="https://ems.press/books/standalone/172">Handbook of Automata Theory</a>. See our <a href="https://cambridgelaa.github.io/schedule/">current schedule</a> for details. 
 
-The meetings take place <b>online</b>. If you're interested in participating, get in touch with p.marimon19 "at" imperial.ac.uk. 
+The meetings take place in person, but it is also possible to join <b>online</b>. If you're interested in participating, get in touch with ie257 "at" cam.ac.uk. 
 
 Few resources: 
 <ul>
-  <li><a href="https://pococop.eu">POCOCOP</a></li>
-  <li><a href="https://math.mit.edu/~notzeb/csp.html">Brady's <i>Royal Road to the CSP</i></a></li>
+  <li><a href="https://www.cl.cam.ac.uk/research/clash/">Cambridge CLASH</a></li>
 </ul>
