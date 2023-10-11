@@ -5,7 +5,7 @@ title: schedule
 description: 
 nav: true
 ---
-From Monday 16/10 onwards, we meet weekly on Mondays at 4PM CET. 
+From 16/10 onwards, we meet weekly on Mondays at 4PM CET. 
 
 <ul>
   <li>28/06: <b>Ioannis Eleftheriadis</b> - Background and motivation (<a href="https://cspreadingroup.github.io/_pages/1.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=peL_ljZ_JN4">video</a>)</li>
@@ -19,5 +19,6 @@ From Monday 16/10 onwards, we meet weekly on Mondays at 4PM CET.
   <li>06/09: <b>Žaneta Semanišinová</b> - Sections 3.1-3.2 (<a href="https://cspreadingroup.github.io/_pages/9.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=OtMC_JvIPXc">video</a>)</li> 
   <li>13/09: <b>Ioannis Eleftheriadis</b> - Sections 3.3-3.4 (<a href="https://cspreadingroup.github.io/_pages/10.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=60jjMtEx-2Q">video</a>)</li>
   <li>04/10: <b>Paolo Marimon</b> - Sections 3.5-3.7 (<a href="https://cspreadingroup.github.io/_pages/11.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=nLLqWJPUOb4">video</a>)</li>
-  <li>11/10: <b>Aris Papadopoulos</b> - Sections 4.1-4.2 (<a href="https://www.youtube.com/watch?v=nLLqWJPUOb4">video</a>)</li>
+  <li>11/10: <b>Aris Papadopoulos</b> - Section 4.1 (<a href="https://www.youtube.com/watch?v=nLLqWJPUOb4">video</a>)</li>
+  <li>16/10: <b>Aris Papadopoulos</b> - Section 4.2 </li>
 </ul>
