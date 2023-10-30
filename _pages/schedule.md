@@ -22,4 +22,5 @@ From 16/10 onwards, we meet weekly on Mondays at 4PM CET.
   <li>11/10: <b>Aris Papadopoulos</b> - Section 4.1 (<a href="https://cspreadingroup.github.io/_pages/12.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=JbNc4jW4VHE">video</a>)</li>
   <li>16/10: <b>Aris Papadopoulos</b> - Section 4.2 (<a href="https://cspreadingroup.github.io/_pages/13.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=TvGwpMVm4Fk">video</a>)</li>
   <li>24/10: <b>Aris Papadopoulos</b> - Section 4.2 (<a href="https://cspreadingroup.github.io/_pages/14.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=WOwOXBgNG2U">video</a>)</li>
+  <li>30/10: <b>Alexey Barsukov </b> - Section 4.3 (<a href="">notes</a>, <a href="">video</a>)</li></li>
 </ul>
