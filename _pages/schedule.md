@@ -22,8 +22,8 @@ From 16/10 onwards, we meet weekly on Mondays at 4PM CET.
   <li>11/10: <b>Aris Papadopoulos</b> - Section 4.1 (<a href="https://cspreadingroup.github.io/_pages/12.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=JbNc4jW4VHE">video</a>)</li>
   <li>16/10: <b>Aris Papadopoulos</b> - Section 4.2 (<a href="https://cspreadingroup.github.io/_pages/13.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=TvGwpMVm4Fk">video</a>)</li>
   <li>24/10: <b>Aris Papadopoulos</b> - Section 4.2 (<a href="https://cspreadingroup.github.io/_pages/14.pdf" target="_blank">notes</a>, <a href="https://www.youtube.com/watch?v=WOwOXBgNG2U">video</a>)</li>
-  <li>30/10: <b>Alexey Barsukov </b> - Section 4.3 (<a href="">notes</a>, <a href="">video</a>)</li>
-  <li>06/11: <b>Demian Banakh</b> - Sections 4.4-4.5 (<a href="">notes</a>, <a href="">video</a>)</li>
+  <li>30/10: <b>Alexey Barsukov </b> - Section 4.3 (<a href="">notes</a>, <a href="https://www.youtube.com/watch?v=Dd83R7tfxPU&ab_channel=CSPsReadingGroup">video</a>)</li>
+  <li>06/11: <b>Demian Banakh</b> - Sections 4.4-4.5 (<a href="">notes</a>, <a href="https://youtu.be/8ix4g4IChvE?si=NIbPaZFh0WT8NH3k">video</a>)</li>
   <li>13/11: <b>Paolo Marimon</b> - Sections 4.6-4.7 (<a href="https://cspreadingroup.github.io/_pages/17.pdf">notes</a>, <a href="https://www.youtube.com/watch?v=ah6GWWuXE-o">video</a>)</li>
   
 </ul>
