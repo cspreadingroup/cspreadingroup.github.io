@@ -27,5 +27,7 @@ From 16/10 onwards, we meet weekly on Mondays at 4PM CET.
   <li>13/11: <b>Paolo Marimon</b> - Sections 4.6-4.7 (<a href="https://cspreadingroup.github.io/_pages/17.pdf">notes</a>, <a href="https://www.youtube.com/watch?v=ah6GWWuXE-o">video</a>)</li>
   <li>20/11: <b>Jakub Rydval</b> - Sections 5.1-5.2 (<a href="https://cspreadingroup.github.io/_pages/18.pdf">notes</a>, <a href="https://www.youtube.com/watch?v=9RKzIu_mqTc">video</a>)</li>
   <li>27/11: <b>Ioannis Eleftheriadis</b> - Sections 5.6,5.8 (<a href="https://cspreadingroup.github.io/_pages/19.pdf">notes</a>, <a href="https://www.youtube.com/watch?v=HVUIE1nY_1g">video</a>)</li>
+  <li>04/12: <b>Žaneta Semanišinová</b> - Sections 6.1.1-6.1.3 (<a href="https://cspreadingroup.github.io/_pages/20.pdf">notes</a>, <a href="https://www.youtube.com/watch?v=DC9pE-IwkAU&feature=youtu.be">video</a>)</li>
+  <li>11/12: <b>Paolo Marimon</b> - Sections 6.1.3-6.1.5 (<a href="https://cspreadingroup.github.io/_pages/21.pdf">notes</a>, <a href="https://www.youtube.com/watch?v=otfbf5gQlZc">video</a>)</li>
   
 </ul>
