@@ -31,6 +31,6 @@ From 16/10 onwards, we meet weekly on Mondays at 4PM CET.
   <li>11/12: <b>Paolo Marimon</b> - Sections 6.1.4-6.1.5 (<a href="https://cspreadingroup.github.io/_pages/21.pdf">notes</a>, <a href="https://www.youtube.com/watch?v=otfbf5gQlZc">video</a>)</li>
    <li>18/12: <b>Paolo Marimon</b> - Sections 6.1.6-6.1.8 (part 1) (<a href="https://cspreadingroup.github.io/_pages/22.pdf">notes</a>, <a href="https://youtu.be/BOSvLbAMvas">video</a>)</li>
     <li>17/01: <b>Paolo Marimon</b> - Section 6.1.8 (part 2) (<a href="https://cspreadingroup.github.io/_pages/23.pdf">notes</a>, <a href="https://youtu.be/8DOzJGGDfJk">video</a>)</li>
-  <li>18/12: <b>Philipp Grzywaczyk</b> - Section 6.2 (<a href="https://cspreadingroup.github.io/_pages/24.pdf">notes</a>, <a href="https://youtu.be/LuedkvIHSb4">video</a>)</li>
+  <li>06/02: <b>Philipp Grzywaczyk</b> - Section 6.2 (<a href="https://cspreadingroup.github.io/_pages/24.pdf">notes</a>, <a href="https://youtu.be/LuedkvIHSb4">video</a>)</li>
   
 </ul>
