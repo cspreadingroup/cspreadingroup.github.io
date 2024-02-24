@@ -33,5 +33,5 @@ From 16/10 onwards, we meet weekly on Mondays at 4PM CET.
     <li>17/01: <b>Paolo Marimon</b> - Section 6.1.8 (part 2) (<a href="https://cspreadingroup.github.io/_pages/23.pdf">notes</a>, <a href="https://youtu.be/8DOzJGGDfJk">video</a>)</li>
   <li>07/02: <b>Philipp Grzywaczyk</b> - Section 6.2 (<a href="https://cspreadingroup.github.io/_pages/24.pdf">notes</a>, <a href="https://youtu.be/LuedkvIHSb4">video</a>)</li>
   <li>14/02: <b>Žaneta Semanišinová</b> - Section 6.3 (<a href="https://cspreadingroup.github.io/_pages/25.pdf">notes</a>, <a href="https://youtu.be/4Jaw01ZM2uQ">video</a>)</li>
-  
+   <li>21/02: <b>Moritz Schöbi</b> - Section 6.4 (<a href="https://cspreadingroup.github.io/_pages/26.pdf">notes</a>, <a href="https://youtu.be/XdEn-Dy1T44">video</a>)</li>
 </ul>
